@@ -3,4 +3,4 @@ Full Stack Netflix Clone in React, Tailwind CSS, Next.JS, Prisma, MongoDB, NextA
 
 
 
-Wow this is so cool
+
